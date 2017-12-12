@@ -1,14 +1,14 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: de.NBI metabolomics winterschool 2018
+email: denbi-mash@ipb-halle.de
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Website for the de.NBI metabolomics winterschool 2018
+  providing an overview of the event.
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+baseurl: "/winterschool2018/" # the subpath of your site, e.g. /blog/
+url: https://sneumann.github.com/winterschool2018 # the base hostname & protocol for your site
+git_address: https://github.com/sneumann/winterschool2018
+git_edit_address: https://github.com/sneumann/winterschool2018/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
